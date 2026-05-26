@@ -1,0 +1,13 @@
+{
+    "numero": "001",
+    "documentos": [
+        "Petição Inicial",
+        "Provas Digitalizadas"
+    ],
+    "historico": [
+        "[26/05/2026 15:35:11] Processo autuado e cadastrado no sistema.",
+        "[26/05/2026 15:37:41] Anexo adicionado: 'Petição Inicial' por Luiza J. (Juiz)",
+        "[26/05/2026 15:37:56] Anexo adicionado: 'Provas Digitalizadas' por Luiza J. (Juiz)"
+    ],
+    "fase_atual": "FaseAberto"
+}
