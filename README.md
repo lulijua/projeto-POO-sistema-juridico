@@ -76,8 +76,11 @@ python main.py
 
 ```
 
-*** ### Dica para o seu repositório:
-Como você agora tem uma interface gráfica, **tire um "print" da tela do sistema rodando** (mostrando a mensagem verde de sucesso ou a mensagem vermelha de bloqueio) e coloque a imagem no topo do seu `README.md`, logo abaixo do título principal. Recrutadores adoram projetos que eles podem entender visualmente em 5 segundos!
+3. Execute o arquivo principal para abrir o terminal interativo:
+```bash
+python main.py
+
+```
 
 **Interface criada via Streamlit**
 
@@ -95,12 +98,3 @@ Tentativa de anexar documento ao processo com o cargo "Estágiario", ação bloq
 Anexação de documentos com o cargo "Juiz" realizada com sucesso.
 <img width="1811" height="855" alt="image" src="https://github.com/user-attachments/assets/ef28602a-a1d4-4c9c-a3fb-c5516e9d3bbe" />
 
-
-
-
-
-3. Execute o arquivo principal para abrir o terminal interativo:
-```bash
-python main.py
-
-```
